@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.card{
+  border: none !important;
+}
+.card-header-custom{
+  background-color: #f174dc;
+}
+.card-body-custom{
+  background-color: #fafafa;
+}
+.card-pregunta{
+  background-color: #f0f0f0 !important;
+}
+.color-buton-custom{
+  background-color: #f64283 !important;
+  color: #ffff !important;
+  border-color: #f64283 !important;
+}
